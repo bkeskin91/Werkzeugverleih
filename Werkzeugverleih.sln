@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28714.193
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Werkzeugverleih", "Werkzeugverleih\Werkzeugverleih.csproj", "{7E01B1B1-FEF4-4870-8E17-B4AC1688E7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WerkzeugverleihData", "WerkzeugverleihData\WerkzeugverleihData.csproj", "{5ACE5D12-31E5-4D1C-9503-98357628D37A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E01B1B1-FEF4-4870-8E17-B4AC1688E7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E01B1B1-FEF4-4870-8E17-B4AC1688E7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E01B1B1-FEF4-4870-8E17-B4AC1688E7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E01B1B1-FEF4-4870-8E17-B4AC1688E7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACE5D12-31E5-4D1C-9503-98357628D37A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACE5D12-31E5-4D1C-9503-98357628D37A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACE5D12-31E5-4D1C-9503-98357628D37A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACE5D12-31E5-4D1C-9503-98357628D37A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {359C716E-BFA4-493A-A495-730219505164}
+	EndGlobalSection
+EndGlobal
